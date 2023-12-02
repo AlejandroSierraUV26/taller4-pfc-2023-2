@@ -12,7 +12,8 @@ import org.scalatestplus.junit.JUnitRunner
 
 @RunWith(classOf[JUnitRunner])
 class TestTaller4 extends AnyFunSuite{
-    test("testTaller4"){
-        assert("Taller 4 2023-II" == Taller4.saludo())
+    test("testTaller4 I"){
+        assert(Operacion.multMatriz(Operacion.matrizAlAzar(2,2),Operacion.matrizAlAzar(2,2)) == Vector(Vector(0,0),Vector(0,0)))
     }
+
 }
