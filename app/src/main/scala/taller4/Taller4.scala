@@ -12,5 +12,4 @@ import org.scalameter.Warmer
 object Taller4{
 
   def saludo() = "Taller 4 2023-II"
-
  }

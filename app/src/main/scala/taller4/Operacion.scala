@@ -73,7 +73,6 @@ object Operacion {
         (0 until colsA).map(k => a(i)(k) * b(k)(j)).sum
       }
     }
-
     result
   }
   def restarMatriz(m1: Matriz, m2: Matriz): Matriz = {
@@ -153,7 +152,7 @@ object Operacion {
 
   def main(args: Array[String]): Unit = {
   for {
-    i<- 1 to 10
+    i<- 1 to 8
     m1 = matrizAlAzar(math.pow(2,i).toInt, 2)
     m2 = matrizAlAzar(math.pow(2,i).toInt, 2)
   }yield (println(compararAlgoritmos(multMatrizRec, multMatrizRecPar)(m1, m2), math.pow(2,i).toInt))
