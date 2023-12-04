@@ -13,7 +13,4 @@ object Taller4{
 
   def saludo() = "Taller 4 2023-II"
 
-  def main(args: Array[String]): Unit = {
-    println(saludo())
-  }
  }
