@@ -41,15 +41,24 @@ class TestTaller4 extends AnyFunSuite{
         val m1 = Operacion.matrizAlAzar(2,2)
         val m2 = Operacion.matrizAlAzar(2,2)
         assert(Operacion.multMatriz(m1,m2) == Operacion.multMatrizPar(m1,m2))
+        val m3 = Operacion.matrizAlAzar(4, 4)
+        val m4 = Operacion.matrizAlAzar(4, 4)
+        assert(Operacion.multMatriz(m3, m4) == Operacion.multMatrizPar(m3, m4))
     }
     test ("Multiplicacion Recursiva de Matrices"){
         val m1 = Operacion.matrizAlAzar(2, 2)
         val m2 = Operacion.matrizAlAzar(2, 2)
         assert(Operacion.multMatrizRec(m1,m2) == Operacion.multMatrizRecPar(m1,m2))
+        val m3 = Operacion.matrizAlAzar(4, 4)
+        val m4 = Operacion.matrizAlAzar(4, 4)
+        assert(Operacion.multMatrizRec(m3, m4) == Operacion.multMatrizRecPar(m3, m4))
     }
     test ("Multiplicacion Metodo : Strassen De Matrices"){
         val m1 = Operacion.matrizAlAzar(2, 2)
         val m2 = Operacion.matrizAlAzar(2, 2)
         assert(Operacion.multStrassen(m1,m2) == Operacion.multStrassenPar(m1,m2))
+        val m3 = Operacion.matrizAlAzar(4, 4)
+        val m4 = Operacion.matrizAlAzar(4, 4)
+        assert(Operacion.multStrassen(m3, m4) == Operacion.multStrassenPar(m3, m4))
     }
 }
