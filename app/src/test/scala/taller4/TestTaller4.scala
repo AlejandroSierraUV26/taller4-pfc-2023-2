@@ -61,4 +61,9 @@ class TestTaller4 extends AnyFunSuite{
         val m4 = Operacion.matrizAlAzar(4, 4)
         assert(Operacion.multStrassen(m3, m4) == Operacion.multStrassenPar(m3, m4))
     }
+    test("Producto Punto de Matrices"){
+        val m1 = Operacion.vectorAlAzar(10,2)
+        val m2 = Operacion.vectorAlAzar(10,2)
+        assert(Operacion.prodPunto(m1,m2) == Operacion.prodPuntoPar(m1,m2))
+    }
 }

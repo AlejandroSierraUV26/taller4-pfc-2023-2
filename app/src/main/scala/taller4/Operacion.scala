@@ -3,8 +3,8 @@ import common.task
 import taller4.Benchmark._
 
 import scala.concurrent.ExecutionContext.Implicits.global
-import scala.concurrent.duration.DurationInt
-import scala.concurrent.{Await, Future}
+import scala.concurrent._
+import scala.concurrent.duration.{Duration, DurationInt}
 import scala.util.Random
 
 
@@ -21,11 +21,13 @@ object Operacion {
   def prodPunto(v1: Vector[Int], v2: Vector[Int]): Int = {
     (v1 zip v2).map({case (x,y) => x*y}).sum
   }
-  /*
-  def prodPuntoParD(v1: ParVector[Int], v2: ParVector[Int]): Int = {
-    (v1 zip v2).map({ case (x, y) => x * y }).sum
+
+  def prodPuntoPar(v1: Vector[Int], v2: Vector[Int]): Int = {
+    val resultadoParalelo = Await.result(Future {
+      (v1 zip v2).map { case (x, y) => x * y }.sum
+    }, Duration.Inf)
+    resultadoParalelo
   }
-  */
   def traspuesta(m: Matriz): Matriz = {
     val l = m.length
     Vector.tabulate(l,l)((i,j) => m(j)(i))
@@ -172,10 +174,8 @@ object Operacion {
     m2 = matrizAlAzar(math.pow(2,i).toInt, 2)
   }yield (println(compararAlgoritmos(multMatrizRec, multMatrizRecPar)(m1, m2), math.pow(2,i).toInt))
      */
-    val m1 = matrizAlAzar(4,4)
-    val m2 = matrizAlAzar(4,4)
-    println(multMatriz(m1,m2))
-    println(multStrassen(m1,m2))
+    println(compararProdPunto(100))
+
 
   }
 }
