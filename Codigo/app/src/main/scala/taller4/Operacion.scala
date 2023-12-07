@@ -113,7 +113,6 @@ object Operacion {
       val c21 = sumMatriz(p2, p4)
       val c22 = restarMatriz(sumMatriz(sumMatriz(p1, p3), p6), p2)
 
-      // Construir la matriz resultante
       Vector.tabulate(n, n) { (i, j) =>
         if (i < m && j < m) c11(i)(j)
         else if (i < m && j >= m) c12(i)(j - m)
@@ -156,9 +155,6 @@ object Operacion {
       val c21 = sumMatriz(p2.join, p4.join)
       val c22 = restarMatriz(sumMatriz(sumMatriz(p1.join, p3.join), p6.join), p2.join)
 
-
-
-      // Construir la matriz resultante
       Vector.tabulate(n, n) { (i, j) =>
         if (i < m && j < m) c11(i)(j)
         else if (i < m && j >= m) c12(i)(j - m)
@@ -167,16 +163,11 @@ object Operacion {
       }
     }}
   def main(args: Array[String]): Unit = {
-    /*
   for {
-    i<- 1 to 8
+    i<- 1 to 9
     m1 = matrizAlAzar(math.pow(2,i).toInt, 2)
     m2 = matrizAlAzar(math.pow(2,i).toInt, 2)
-  }yield (println(compararAlgoritmos(multMatrizRec, multMatrizRecPar)(m1, m2), math.pow(2,i).toInt))
-     */
-    println(compararProdPunto(100))
-
-
+  }yield (println(compararAlgoritmos(multMatrizRec, multMatriz  RecPar)(m1, m2), math.pow(2,i).toInt))
   }
 }
 

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d298246-3c6f-4233-b8a7-bcbcd3989e67" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-35-166.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-35-464.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-37-799.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-37-990.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-38-167.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-38-853.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-39-086.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-39-295.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-39-533.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-39-769.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-39-962.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-40-115.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-40-274.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-40-518.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-40-673.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-40-854.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-41-068.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-41-226.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-41-470.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-41-594.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-41-863.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-42-064.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-42-196.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-42-363.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-42-501.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-42-636.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_15-43-42-750.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_16-05-34-227.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-10-29/r_compiler-error_16-05-34-670.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/.reports/metals-full/2023-11-20/r_compiler-error_17-36-45-605.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/metals.lock.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.metals/metals.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scalastyle_config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/scala/common/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/scala/taller4/Benchmark.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/scala/taller4/Operacion.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/scala/taller4/Taller4.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/scala/taller4/TestTaller4.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2YroTpojB5cDvO1DylFSbwOR7HI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;android.gradle.sync.needed&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alejandro/Desktop/taller4/taller4-pfc-2023-2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Operacion">
+    <configuration name="Operacion" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="taller4.Operacion" />
+      <module name="taller1.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="taller4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Taller4" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="taller4.Taller4" />
+      <module name="taller1.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="taller4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTaller4" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:test" />
+            <option value="--tests" />
+            <option value="&quot;taller4.TestTaller4&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="taller4-pfc-2023-2 [scalastyleTestCheck]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="scalastyleTestCheck" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="taller4-pfc-2023-2 [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Operacion" />
+        <item itemvalue="Gradle.taller4-pfc-2023-2 [test]" />
+        <item itemvalue="Gradle.TestTaller4" />
+        <item itemvalue="Gradle.taller4-pfc-2023-2 [scalastyleTestCheck]" />
+        <item itemvalue="Application.Taller4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d298246-3c6f-4233-b8a7-bcbcd3989e67" name="Changes" comment="" />
+      <created>1701293069962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701293069962</updated>
+      <workItem from="1701293070989" duration="2453000" />
+      <workItem from="1701300858201" duration="1354000" />
+      <workItem from="1701302912867" duration="1191000" />
+      <workItem from="1701408751368" duration="54000" />
+      <workItem from="1701483610726" duration="8698000" />
+      <workItem from="1701559241890" duration="5749000" />
+      <workItem from="1701621204696" duration="12652000" />
+      <workItem from="1701654042497" duration="3786000" />
+      <workItem from="1701701595877" duration="184000" />
+      <workItem from="1701702000775" duration="80000" />
+      <workItem from="1701702205242" duration="722000" />
+      <workItem from="1701703255219" duration="27000" />
+      <workItem from="1701703397473" duration="9513000" />
+      <workItem from="1701736013914" duration="3106000" />
+      <workItem from="1701742417290" duration="541000" />
+      <workItem from="1701792369614" duration="1694000" />
+      <workItem from="1701804063238" duration="956000" />
+      <workItem from="1701829271625" duration="5466000" />
+      <workItem from="1701912795421" duration="1024000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/taller1$Taller4.ic" NAME="Taller4 Coverage Results" MODIFIED="1701301579082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>taller4.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/taller1$Operacion.ic" NAME="Operacion Coverage Results" MODIFIED="1701804143298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>taller4.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/taller1$TestTaller4.ic" NAME="TestTaller4 Coverage Results" MODIFIED="1701727066609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
